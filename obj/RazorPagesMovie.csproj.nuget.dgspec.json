@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\net2\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\code\\net2\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\net2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\code\\net2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\net2\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",

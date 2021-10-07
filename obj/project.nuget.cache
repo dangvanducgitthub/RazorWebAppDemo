@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EU1c4AmwD8Tmd/+E8zucsB95kLWkXRpoKC4U6MtnM7CWTK1r681+QYZFl7a0z08Q8ba4YPhIAAw9OG/F/2q5+w==",
+  "dgSpecHash": "rezvDDi8aE6kJeMd4G2DHcaIdaaIpLcT8gjfkVQLUxz4kZlzq6f3pbCcJjNePz3ynDNkgh2YbUAzBjIshIcO+g==",
   "success": true,
-  "projectFilePath": "D:\\code\\net2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "projectFilePath": "C:\\Users\\duc\\OneDrive - Hanoi University of Mining and Geology\\github\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
