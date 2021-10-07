@@ -7,9 +7,11 @@ namespace RazorPagesMovie.Models
     public class Movie
     {
         public int ID { get; set; }
+        
         [MinLength(3)]
-        [Column(TypeName="nvarchar(50)")]
+        [Column(TypeName="varchar(50)")]
         public string Title { get; set; }
+
         [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
